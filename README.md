@@ -8,6 +8,9 @@ This theme is based on the Bootswatch cerulean theme for the Bootstrap 3 theme f
 * authors   Bas Brands, David Scotson, Robin Andrew
 * license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 
+Requires Parent them Bootstrap
+https://moodle.org/plugins/theme_bootstrap
+
 For more info on Boostrap 3 themes read
 https://github.com/bmbrands/theme_bootstrap/blob/master/README.md
 
